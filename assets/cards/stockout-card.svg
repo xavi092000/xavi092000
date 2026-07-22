@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500">
+<rect width="1600" height="500" rx="32" fill="#0B1220"/>
+<rect x="3" y="3" width="1594" height="494" rx="29" fill="none" stroke="#243B53" stroke-width="3"/>
+<circle cx="150" cy="140" r="60" fill="none" stroke="#36A3FF" stroke-width="8"/>
+<circle cx="150" cy="140" r="10" fill="#36A3FF"/>
+<text x="270" y="105" fill="#36A3FF" font-size="34" font-family="Arial" font-weight="700">STOCKOUT DECISION INTELLIGENCE</text>
+<text x="270" y="170" fill="white" font-size="54" font-family="Arial" font-weight="700">Closed-Loop AI Decision Platform</text>
+<text x="80" y="260" fill="#D9E4F0" font-size="30" font-family="Arial">
+<tspan x="80" dy="0">Optimize inventory decisions through simulation and policy learning.</tspan>
+<tspan x="80" dy="42">Leakage-safe evaluation with measurable business impact.</tspan>
+<tspan x="80" dy="42">Production-style decision intelligence for supply chains.</tspan>
+</text>
+<text x="80" y="430" fill="#AFC6DA" font-size="26" font-family="Arial" font-weight="700">Simulation • Decision Intelligence • Machine Learning</text>
+<text x="1340" y="430" fill="#36A3FF" font-size="30" font-family="Arial" font-weight="700">EXPLORE →</text>
+</svg>

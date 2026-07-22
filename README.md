@@ -18,6 +18,12 @@
 
 <br/>
 
+<a href="https://github.com/xavi092000/stockout-decision-intelligence">
+  <img src="assets/cards/stockout-card.svg" width="100%" alt="Stockout Decision Intelligence"/>
+</a>
+
+<br/>
+
 <a href="https://github.com/xavi092000/aws-cfo-finops-rag">
   <img src="assets/cards/finops-card.svg" width="100%" alt="AWS CFO FinOps"/>
 </a>
