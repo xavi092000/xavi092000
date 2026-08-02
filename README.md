@@ -38,6 +38,7 @@ Featured Platforms
   <img src="assets/cards/campaign-card.svg" width="100%" alt="Campaign Attribution Data Pipeline"/>
 </a>
 
+
 Engineering Philosophy
 
 <img src="assets/architecture/engineering-lifecycle.svg" width="100%" alt="Engineering lifecycle"/>
