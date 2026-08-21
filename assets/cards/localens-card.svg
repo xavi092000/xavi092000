@@ -1,0 +1,87 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect
+    width="1000"
+    height="220"
+    rx="22"
+    fill="#0d1117"
+    stroke="#30363d"
+    stroke-width="2"
+  />
+
+  <circle
+    cx="92"
+    cy="82"
+    r="42"
+    fill="none"
+    stroke="#58a6ff"
+    stroke-width="5"
+  />
+
+  <circle
+    cx="92"
+    cy="82"
+    r="8"
+    fill="#58a6ff"
+  />
+
+  <path
+    d="M92 44 L92 30
+       M92 120 L92 134
+       M54 82 L40 82
+       M130 82 L144 82"
+    stroke="#58a6ff"
+    stroke-width="4"
+    stroke-linecap="round"
+  />
+
+  <text
+    x="170"
+    y="62"
+    fill="#58a6ff"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="22"
+    font-weight="700"
+    letter-spacing="1">
+    LOCALENS AI
+  </text>
+
+  <text
+    x="170"
+    y="105"
+    fill="#ffffff"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="32"
+    font-weight="700">
+    Evidence-Grounded AI Decision Platform
+  </text>
+
+  <text
+    x="170"
+    y="145"
+    fill="#c9d1d9"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="19">
+    Agentic residential intelligence with MCP, evidence grounding,
+  </text>
+
+  <text
+    x="170"
+    y="174"
+    fill="#c9d1d9"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="19">
+    reliability gates, security evaluation and controlled failure behavior.
+  </text>
+
+  <text
+    x="170"
+    y="202"
+    fill="#8b949e"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15">
+    MCP  •  AGENTIC AI  •  EVIDENCE ENGINEERING  •  RELIABLE AI
+  </text>
+
+</svg>

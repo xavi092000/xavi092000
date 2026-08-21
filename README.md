@@ -10,6 +10,11 @@ Portfolio ·LinkedIn ·Repositories
 
 Featured Platforms
 
+<a href="https://github.com/xavi092000/localens-ai-showcase">
+  <img src="assets/cards/localens-card.svg" width="100%" alt="LocaLens AI"/>
+</a>
+
+<br/>
 <a href="https://github.com/xavi092000/flowpay-real-time-ai-platform">
   <img src="assets/cards/flowpay-card.svg" width="100%" alt="FlowPay"/>
 </a>
