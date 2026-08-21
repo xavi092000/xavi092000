@@ -11,7 +11,7 @@ Portfolio ·LinkedIn ·Repositories
 Featured Platforms
 
 <a href="https://github.com/xavi092000/localens-ai-showcase">
-  <img src="assets/cards/localens-card.svg" width="100%" alt="LocaLens AI"/>
+  <img src="assets/cards/localens-card-v2.svg" width="100%" alt="LocaLens AI"/>
 </a>
 
 <br/>
