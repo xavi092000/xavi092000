@@ -30,11 +30,11 @@
 </g>
 <!-- left content -->
 <text x="92" y="145" class="small">FELIX BRILLANT</text>
-<text x="92" y="220" class="title">Production AI Platform Engineer</text>
+<text x="92" y="220" class="title">AI and Data Engineer</text>
 <text x="92" y="272" class="subtitle">Engineering AI platforms that transform enterprise data</text>
 <text x="92" y="310" class="subtitle">into trusted operational decisions.</text>
 <rect x="92" y="352" width="640" height="2" fill="url(#accent)"/>
-<text x="92" y="395" class="small">CLOUD ARCHITECTURE  •  DECISION INTELLIGENCE  •  PRODUCTION ENGINEERING</text>
+<text x="92" y="395" class="small">CLOUD ARCHITECTURE  •  DECISION INTELLIGENCE  •  DATA ENGINEERING</text>
 
 <!-- right-side system illustration -->
 <g transform="translate(1035,72)">

@@ -1,14 +1,27 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Felix Brillant — Production AI Platform Engineer"/>
+<img src="assets/banner.svg" width="100%" alt="Felix Brillant — AI and Data Engineer"/>
 
 <br/>
 
-Portfolio ·LinkedIn ·Repositories
+[Portfolio](https://xavi092000.github.io/) · [LinkedIn](https://www.linkedin.com/in/felix-brillant-27b890113/) · [Repositories](https://github.com/xavi092000?tab=repositories)
 
 </div>
 
-Featured Platforms
+## Start here
+
+I build Python and SQL data pipelines, AWS cloud workflows, and AI decision-support projects.
+
+| Project | What to inspect | Evidence scope |
+|---|---|---|
+| [Campaign Attribution](https://github.com/xavi092000/campaign-attribution-data-pipeline) | SQL grains, data quality, reconciliation | Public code, synthetic data, automated pipeline checks |
+| [Stockout](https://github.com/xavi092000/stockout-decision-intelligence) | Simulation, model training, evaluation design | Public code and CI; economic results reported from simulation |
+| [FlowPay](https://github.com/xavi092000/flowpay-real-time-ai-platform) | Deterministic risk engine and AWS architecture | Offline demo, cloud configuration, dated validation reports |
+| [LocaLens](https://github.com/xavi092000/localens-ai-showcase) | Multi-source architecture and evidence grounding | Documentation showcase; implementation and test runs private |
+
+The public portfolio emphasizes Python, SQL, AWS, data quality, and AI engineering. Course-based taxi repositories identify their learning origin. Each project documents its runtime requirements and the limits of its public evidence; repository code and screenshots do not by themselves establish a currently deployed production service.
+
+## Featured projects
 
 <a href="https://github.com/xavi092000/localens-ai-showcase">
   <img src="assets/cards/localens-card-v2.svg" width="100%" alt="LocaLens AI"/>
@@ -50,16 +63,16 @@ Engineering Philosophy
 
 Engineering Manifesto
 
-Models generate predictions.Platforms generate decisions.Trust requires validation.Observability is a feature.Architecture is the product.
+Models generate predictions. Platforms generate decisions. Trust requires validation. Observability is a feature. Architecture is the product.
 
 Current Focus
 
-Decision Intelligence Platforms · Production AI Systems · Cloud Architecture · Multi-Agent Orchestration · Reliable AI Engineering
+Decision Intelligence · Data and AI Systems · Cloud Architecture · Multi-Agent Orchestration · Reliable AI Engineering
 
 <div align="center">
 
 Engineering AI Systems People Can Trust.
 
-Building production platforms where cloud architecture, deterministic engineering and AI work together to deliver reliable decisions.
+Building data and AI projects that connect cloud architecture, deterministic engineering, and explicit validation.
 
 </div>

@@ -21,7 +21,7 @@
         font-family="Arial, Helvetica, sans-serif"
         font-size="54"
         font-weight="700">
-    Production Data Engineering Pipeline
+    Data Engineering Portfolio Pipeline
   </text>
 
   <text x="87" y="255"
@@ -42,7 +42,7 @@
         fill="#E7EEF7"
         font-family="Arial, Helvetica, sans-serif"
         font-size="31">
-    Reliable metrics and reproducible analytics built for production.
+    Synthetic data, quality checks, and reproducible analytics.
   </text>
 
   <text x="87" y="425"
