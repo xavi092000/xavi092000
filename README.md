@@ -10,6 +10,12 @@
 
 ## Featured projects
 
+<a href="https://github.com/xavi092000/customer-churn-data-engineering-gcp">
+  <img src="assets/cards/churn-card.svg" width="100%" alt="Customer Churn — GCP Data Engineering: BigQuery SQL, historical modeling, and data quality"/>
+</a>
+
+<br/>
+
 <a href="https://github.com/xavi092000/localens-ai-showcase">
   <img src="assets/cards/localens-card-v2.svg" width="100%" alt="LocaLens AI"/>
 </a>
