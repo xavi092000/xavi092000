@@ -1,0 +1,16 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="8" y="8" width="1584" height="484" rx="28" fill="#0B1424" stroke="#1D334C" stroke-width="4"/>
+  <circle cx="157" cy="135" r="61" stroke="#3DA7FF" stroke-width="8"/>
+  <path d="M127 160V140M157 160V115M187 160V95" stroke="#3DA7FF" stroke-width="10" stroke-linecap="round"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="276" y="101" fill="#3DA7FF" font-size="36" font-weight="700">CUSTOMER CHURN</text>
+    <text x="276" y="165" fill="#FFFFFF" font-size="54" font-weight="700">GCP Data Engineering</text>
+    <g fill="#E7EEF7" font-size="31">
+      <text x="87" y="255">Turn operational records into monthly features for churn analysis.</text>
+      <text x="87" y="296">Historical customer states, controlled joins, and SQL quality checks.</text>
+      <text x="87" y="337">BigQuery transformations with a documented GCP architecture.</text>
+    </g>
+    <text x="87" y="425" fill="#BDD0E4" font-size="28" font-weight="700">BigQuery • SQL • Historical Modeling • Data Quality</text>
+    <text x="1338" y="425" fill="#3DA7FF" font-size="31" font-weight="700">EXPLORE →</text>
+  </g>
+</svg>
