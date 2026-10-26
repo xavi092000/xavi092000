@@ -8,19 +8,6 @@
 
 </div>
 
-## Start here
-
-I build Python and SQL data pipelines, AWS cloud workflows, and AI decision-support projects.
-
-| Project | What to inspect | Evidence scope |
-|---|---|---|
-| [Campaign Attribution](https://github.com/xavi092000/campaign-attribution-data-pipeline) | SQL grains, data quality, reconciliation | Public code, synthetic data, automated pipeline checks |
-| [Stockout](https://github.com/xavi092000/stockout-decision-intelligence) | Simulation, model training, evaluation design | Public code and CI; economic results reported from simulation |
-| [FlowPay](https://github.com/xavi092000/flowpay-real-time-ai-platform) | Deterministic risk engine and AWS architecture | Offline demo, cloud configuration, dated validation reports |
-| [LocaLens](https://github.com/xavi092000/localens-ai-showcase) | Multi-source architecture and evidence grounding | Documentation showcase; implementation and test runs private |
-
-The public portfolio emphasizes Python, SQL, AWS, data quality, and AI engineering. Course-based taxi repositories identify their learning origin. Each project documents its runtime requirements and the limits of its public evidence; repository code and screenshots do not by themselves establish a currently deployed production service.
-
 ## Featured projects
 
 <a href="https://github.com/xavi092000/localens-ai-showcase">
