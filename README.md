@@ -48,18 +48,4 @@ Engineering Philosophy
 
 <img src="assets/architecture/engineering-lifecycle.svg" width="100%" alt="Engineering lifecycle"/>
 
-Engineering Manifesto
-
-Models generate predictions. Platforms generate decisions. Trust requires validation. Observability is a feature. Architecture is the product.
-
-Current Focus
-
-Decision Intelligence · Data and AI Systems · Cloud Architecture · Multi-Agent Orchestration · Reliable AI Engineering
-
-<div align="center">
-
-Engineering AI Systems People Can Trust.
-
-Building data and AI projects that connect cloud architecture, deterministic engineering, and explicit validation.
-
-</div>
+<img src="assets/cards/engineering-principles.svg" width="100%" alt="Engineering manifesto: models generate predictions; platforms generate decisions; trust requires validation; observability is a feature; architecture is the product. Focus: decision intelligence, data and AI systems, cloud architecture, multi-agent orchestration and reliable AI engineering."/>

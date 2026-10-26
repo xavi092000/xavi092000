@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700">
+  <title>Engineering principles and current focus</title>
+  <rect width="1600" height="700" rx="32" fill="#0B1220"/>
+  <rect x="3" y="3" width="1594" height="694" rx="29"
+        fill="none" stroke="#243B53" stroke-width="3"/>
+  <g font-family="Arial, sans-serif">
+    <text x="80" y="85" fill="#36A3FF" font-size="30"
+          font-weight="700">ENGINEERING MANIFESTO</text>
+
+    <text x="80" y="155" fill="#FFFFFF" font-size="40"
+          font-weight="700">Models generate predictions. Platforms generate decisions.</text>
+
+    <text x="80" y="218" fill="#D9E4F0" font-size="30">
+      Trust requires validation. Observability is a feature.
+    </text>
+    <text x="80" y="263" fill="#D9E4F0" font-size="30">
+      Architecture is the product.
+    </text>
+
+    <line x1="80" y1="310" x2="1520" y2="310" stroke="#243B53" stroke-width="2"/>
+
+    <text x="80" y="370" fill="#36A3FF" font-size="28"
+          font-weight="700">CURRENT FOCUS</text>
+    <text x="80" y="425" fill="#D9E4F0" font-size="30">
+      Decision Intelligence / Data and AI Systems / Cloud Architecture
+    </text>
+    <text x="80" y="470" fill="#D9E4F0" font-size="30">
+      Multi-Agent Orchestration / Reliable AI Engineering
+    </text>
+
+    <line x1="80" y1="515" x2="1520" y2="515" stroke="#243B53" stroke-width="2"/>
+
+    <text x="80" y="575" fill="#FFFFFF" font-size="36"
+          font-weight="700">Engineering AI Systems People Can Trust.</text>
+    <text x="80" y="625" fill="#AFC6DA" font-size="28">
+      Building data and AI projects that connect cloud architecture,
+    </text>
+    <text x="80" y="665" fill="#AFC6DA" font-size="28">
+      deterministic engineering, and explicit validation.
+    </text>
+  </g>
+</svg>
